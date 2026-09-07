@@ -8,7 +8,7 @@ La magia detrás de este botón flotante reside en la combinación de GitHub y j
 
 1.  **GitHub: Tu Almacén de Código (`script.js`)**
     * Dentro de este repositorio, el archivo `script.js` contiene todo el código JavaScript necesario para crear y gestionar el botón flotante en tu página web.
-    * Actualmente, el script está configurado para redirigir a: `https://wa.me/51986673748`
+    * Actualmente, el script está configurado para redirigir a: `https://wa.me/519855555555`
     * **Recuerda modificar este número en tu archivo `script.js` para que apunte a tu propio número de WhatsApp.**
 
 2.  **jsDelivr: Tu CDN Gratuita**
