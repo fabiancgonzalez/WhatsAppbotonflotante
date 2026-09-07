@@ -28,14 +28,14 @@ document.addEventListener("DOMContentLoaded", function () {
             <div class="header-icon-wrapper">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" class="header-icon">
             </div>
-            <p class="header-title">Iniciar Conversación</p>
+            <p class="header-title">Tiendas Frnandez</p>
             <p class="header-subtitle">Hola, clickea en una de las opciones del directorio para chatear por Whatsapp</p>
             <p class="menu-subheader">💬 Respuesta en unos minutos</p>
         </div>
         
         <!-- Opciones del menú -->
         <!-- Opción 1: Solicitar Cotización -->
-        <a href="https://wa.me/3513729188?text=Hola,%20quiero%20solicitar%20una%20cotización" class="menu-item">
+        <a href="https://wa.me/5493513729188?text=Hola,%20quiero%20solicitar%20una%20cotización" class="menu-item">
             <div class="menu-icon">
                 <i class="fas fa-file-invoice-dollar"></i>
             </div>
